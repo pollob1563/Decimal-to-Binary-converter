@@ -10,7 +10,7 @@ int main()
 {
     long long int a,bin[1000000],i, c = 0, b = 0,z,f ;
 
-    cout<<"Hello. I'm Decimal to Binary Converter.Enter a Decimal number and get Binary number"<<endl<<endl<<"Press CTRL+Z(cmd) or CTRL+D(unix) For exit"<<endl<<endl<<endl;
+    cout<<"Hello. I'm Decimal to Binary Converter.Enter Decimal number and get Binary number"<<endl<<endl<<"Press CTRL+Z(cmd) or CTRL+D(unix) For exit"<<endl<<endl<<endl;
 
     while(scanf("%lld",&a)!=EOF){
 

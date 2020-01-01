@@ -1,8 +1,11 @@
+//A Project of Google Code-in 2019 For fedora Project created by pollob1563
 /*
-    Decimal to Binary Converter
-    Google Code-in 2019
-    Organization: Fedora Project
-*/
+ *
+ *    Decimal to Binary Converter
+ *    Google Code-in 2019
+ *    Organization: Fedora Project
+ *
+ */
 
 #include<bits/stdc++.h>
 using namespace std;
